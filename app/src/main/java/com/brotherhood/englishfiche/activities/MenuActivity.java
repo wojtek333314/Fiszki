@@ -1,7 +1,9 @@
-package com.brotherhood.englishfiche;
+package com.brotherhood.englishfiche.activities;
 
 import android.app.Activity;
 import android.os.Bundle;
+
+import com.brotherhood.englishfiche.R;
 
 
 public class MenuActivity extends Activity {

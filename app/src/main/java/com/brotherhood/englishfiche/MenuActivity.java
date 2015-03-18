@@ -1,10 +1,10 @@
 package com.brotherhood.englishfiche;
 
+import android.app.Activity;
 import android.os.Bundle;
-import android.support.v7.app.ActionBarActivity;
 
 
-public class MenuActivity extends ActionBarActivity {
+public class MenuActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
